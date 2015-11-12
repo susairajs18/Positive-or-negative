@@ -1,0 +1,13 @@
+#Positive or Negative or Zero Program
+n 10
+if(n>0):
+    print "Number is Positive"
+if(n<0):
+    print "Number is Negative"
+if(n==0):
+    print "Number is ZERO"
+
+#output
+#Number is Positive
+
+#by Delpin Susai Raj
